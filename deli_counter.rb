@@ -1,4 +1,4 @@
-#katz_deli = []
+#deli counter
 def line(katz_deli)
 if katz_deli.empty? #.empty? is checking to see if the array is empty; if array is empty it will puts out the next line
   puts "The line is currently empty."
